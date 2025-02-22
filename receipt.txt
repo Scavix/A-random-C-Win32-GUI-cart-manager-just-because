@@ -1,0 +1,6 @@
+Flour 0.3
+Rice 1.50
+Rice 1.50
+Rice 1.50
+Smartphone 250
+Total: $254.80

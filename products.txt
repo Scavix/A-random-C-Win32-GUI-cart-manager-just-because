@@ -1,0 +1,9 @@
+Apple 0.49
+Banana 0.99
+Pizza 5.99
+Pasta 1.99
+Eggsx6 3.50
+Milk 0.79
+Rice 1.50
+Flour 0.3
+Smartphone 250
