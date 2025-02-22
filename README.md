@@ -2,6 +2,10 @@
 
 A simple Win32 GUI application written in C/C++ that loads a product list from a text file, imports these products into the GUI, allows the user to add products to a shopping cart, updates the total price, and prints a receipt to a text file.
 
+<p align="center">
+  <img src="https://github.com/Scavix/A-random-C-Win32-GUI-cart-manager-just-because/blob/main/just-a-screen.PNG">
+</p>
+
 ## Features
 
 - **Load Products:** Reads product names and prices from a `products.txt` file.
